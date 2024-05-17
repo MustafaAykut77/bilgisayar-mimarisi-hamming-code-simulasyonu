@@ -15,11 +15,11 @@
   
 ## Projeden Bazı Görseller
 ### Ana sayfa
-### ![ana_sayfa]()
+### ![ana_sayfa](./menu.png)
 ### Veri Ekleme
-### ![veri_ekleme]()
+### ![veri_ekleme](./ekleme.png)
 ### Veri Bozma
-### ![veri_bozma]()
+### ![veri_bozma](./bozma.png)
 
 ## Projeyi Yapan
 Mustafa AYKUT
