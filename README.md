@@ -1,7 +1,7 @@
 # Bilgisayar Mimarisi Hamming Error-Correcting Code Simülatörü
 
 ## Simülasyon Kullanım Videosu
-[Video](https://youtu.be/SIEGoBo7YGc)
+[Video](https://www.youtube.com/watch?v=Sn5rpOs2LhA)
 
 ## Projenin Amacı
 
